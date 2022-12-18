@@ -12,17 +12,18 @@ Sistema de inventario sencillo para el control de entradas y salidas, se desarro
 
 ![entradas](https://user-images.githubusercontent.com/49756024/208305533-5421afc3-dc3d-444d-aa69-67a1438028fd.JPG)
 
+![instalador](https://user-images.githubusercontent.com/49756024/208305537-28b2b6ce-de42-4451-84f1-31464b9a866c.JPG)
+
 
 # Informacion Adicional
 
 Encontrara manuales, videos e instrucciones.
-[Drive](https://drive.google.com/drive/folders/1sJONGvwq2KF1LkxPlb-8IEaCH8zg6qlt?usp=share_link)
 
-![instalador](https://user-images.githubusercontent.com/49756024/208305537-28b2b6ce-de42-4451-84f1-31464b9a866c.JPG)
+[Drive para descarga](https://drive.google.com/drive/folders/1sJONGvwq2KF1LkxPlb-8IEaCH8zg6qlt?usp=share_link)
 
-![manual usuario](https://user-images.githubusercontent.com/49756024/208305538-10f056e6-11b2-4240-aed8-feec6c4f5336.JPG)
+# Manuales
 
-![manual instalacion](https://user-images.githubusercontent.com/49756024/208305539-2bbf4343-60c3-4c18-a65c-a093159b0a20.JPG)
+![Sitio Web](https://comalba02.github.io/Inventarios/)
 
 # Contacto
 
