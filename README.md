@@ -23,7 +23,7 @@ Encontrara manuales, videos e instrucciones.
 
 # Manuales
 
-![Sitio Web](https://comalba02.github.io/Inventarios/)
+[Sitio Web](https://comalba02.github.io/Inventarios/)
 
 # Contacto
 
